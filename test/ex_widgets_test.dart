@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:ex_widgets/ex_widgets.dart';
+import 'package:flutter_ex_widgets/ex_widgets.dart';
 
 void main() {
   test('adds one to input values', () {
