@@ -19,7 +19,6 @@ Import
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
 to `/example` folder.
 
 ```dart
@@ -28,5 +27,7 @@ const like = 'sample';
 
 ## Additional information
 
-Developer: Md. Mohi-Uddin
-Github: https://github.com/P-YMR
+``
+    Developer: Md. Mohi-Uddin
+    Github: https://github.com/P-YMR
+``
